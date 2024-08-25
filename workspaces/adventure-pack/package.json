@@ -48,6 +48,7 @@
     "goodies:typescript:install": "yarn",
     "goodies:typescript:test": "jest --color goodies/typescript",
     "build-app": "tsx src/scripts/build/main.ts",
+    "build-chrome-extension": "ts-node src/scripts/build/buildChromeExtension.ts",
     "package-goodies:test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest --color --testPathIgnorePatterns=\"/goodies/\"",
     "format": "yarn goodies:java:format && yarn goodies:kotlin:format && yarn goodies:python3:format && yarn goodies:typescript:format && prettier --color --write .",
     "lint": "eslint --color --max-warnings=0 .",
