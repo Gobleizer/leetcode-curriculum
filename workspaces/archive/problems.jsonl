@@ -3259,3 +3259,9 @@
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3259,"title":"Maximum Energy Boost From Two Drinks","titleSlug":"maximum-energy-boost-from-two-drinks"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3260,"title":"Find the Largest Palindrome Divisible by K","titleSlug":"find-the-largest-palindrome-divisible-by-k"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3261,"title":"Count Substrings That Satisfy K-Constraint II","titleSlug":"count-substrings-that-satisfy-k-constraint-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3262,"title":"Find Overlapping Shifts","titleSlug":"find-overlapping-shifts"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3263,"title":"Convert Doubly Linked List to Array I","titleSlug":"convert-doubly-linked-list-to-array-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3264,"title":"Final Array State After K Multiplication Operations I","titleSlug":"final-array-state-after-k-multiplication-operations-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3265,"title":"Count Almost Equal Pairs I","titleSlug":"count-almost-equal-pairs-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3266,"title":"Final Array State After K Multiplication Operations II","titleSlug":"final-array-state-after-k-multiplication-operations-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3267,"title":"Count Almost Equal Pairs II","titleSlug":"count-almost-equal-pairs-ii"}
